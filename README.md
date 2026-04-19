@@ -1,7 +1,8 @@
 # Mois 1 — Fondations Data
 
 Premier mois d'un parcours de reconversion vers les métiers de la data.
-Objectif : maîtriser les fondamentaux de la manipulation et du nettoyage, de l'analyse et de la visualisation de données avec Python et Pandas.
+Objectif : maîtriser les fondamentaux de la manipulation et du nettoyage, de l'analyse et de la visualisation
+et de l'interrogation de données avec Python, Pandas et SQL.
 
 
 ---
@@ -23,6 +24,16 @@ Objectif : maîtriser les fondamentaux de la manipulation et du nettoyage, de l'
 - Top N et filtrage : nlargest(), value_counts(), filtres conditionnels
 - Visualisation : bar chart, line chart, histogramme, boxplot, scatter plot
 - Exportation des graphiques dans visuals/
+
+### Semaine 4 — SQL
+- Création de tables et import de données (CREATE TABLE, DBeaver)
+- Interrogation et filtrage (SELECT, WHERE, DISTINCT)
+- Agrégations SQL (GROUP BY, SUM, COUNT, AVG, ROUND)
+- Tri et top N (ORDER BY, LIMIT)
+- Filtrage post-agrégation (HAVING)
+- Extraction temporelle (EXTRACT, TO_CHAR)
+- Jointures (JOIN, LEFT JOIN)
+- Retransposition des analyses Pandas en SQL
 
 ---
 
@@ -52,11 +63,17 @@ data-foundations-month1/
 │   ├── 05_transilien_analyse.ipynb
 │   └── 06_tmdb_analyse.ipynb
 │
+├── sql/
+│   ├── schema.sql                    ← structure des 3 tables
+│   ├── coffee_sales_queries.sql      ← exercices + mini-projet
+│   ├── transilien_queries.sql        ← exercices Transilien
+│   └── tmdb_queries.sql              ← exercices TMDB
+│
 ├── visuals/
 │   └── graphiques exportés (.png)
 │
 └── notes/
-└── bilans semaines 1, 2 et 3 (.pdf)
+└── bilans semaines 1 à 4 (.pdf)
 ```
 
 ---
@@ -64,6 +81,7 @@ data-foundations-month1/
 ## Outils
 
 Python · Pandas · Matplotlib · Seaborn · Jupyter · Anaconda
+PostgreSQL · DBeaver
 
 ---
 
