@@ -1,1 +1,11 @@
-/ipynb_checkpoints
+# ================================
+# JUPYTER
+# ================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ================================
+# DONNÉES — ne jamais versionner
+# ================================
+datasets/
+*.csv
