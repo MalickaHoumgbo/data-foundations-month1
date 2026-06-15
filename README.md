@@ -86,11 +86,9 @@ PostgreSQL · DBeaver
 ---
 
 ## Progression
-
 Ce repo fait partie d'un parcours de 5 mois :
-
-- **Mois 1** — Fondations (exploration + nettoyage) ← ici
-- Mois 2 — Premier Projet Data Analyst (commerce/e-commerce)
-- Mois 3 — Deuxième Projet Data Analyst (banque / finance)
-- Mois 4 — Troisième Projet Data Analyst ( Marché de l'emploi IT)+ introduction Data Engineering
-- Mois 5 — Projet Data Engineering
+- **Mois 1** : Fondations Python & SQL (exploration, nettoyage, analyse) ← ici
+- **Mois 2** : Projet Data Analyst : E-commerce UK ✅
+- **Mois 3** : Projet Data Analyst : Banque / Finance (base DA + rigueur Analytics Engineer)
+- **Mois 4** : Projet Data Analyst : Recrutement & Marché IT Junior (base DA + Analytics Engineer augmenté)
+- **Mois 5** : Introduction Data Engineering (pont entre tous les projets)
